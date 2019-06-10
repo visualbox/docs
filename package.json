@@ -1,0 +1,15 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "VisualBox online documentation.",
+  "repository": "https://github.com/visualbox/docs.git",
+  "author": "Pontus Aurdal <pontus.e.dvard@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.1"
+  }
+}
