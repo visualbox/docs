@@ -2,7 +2,7 @@
   "name": "docs",
   "version": "1.0.0",
   "description": "VisualBox online documentation.",
-  "repository": "https://github.com/visualbox/docs.git",
+  "repository": "https://github.com/visualbox/visualbox-docs.git",
   "author": "Pontus Aurdal <pontus.e.dvard@gmail.com>",
   "license": "MIT",
   "scripts": {

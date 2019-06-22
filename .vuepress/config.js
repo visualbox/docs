@@ -1,4 +1,7 @@
 module.exports = {
+  head: [
+    ['link', { rel: 'icon', href: '/favicon-32x32.png' }]
+  ],
   locales: {
     '/': {
       lang: 'en-US',
