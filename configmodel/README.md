@@ -6,7 +6,7 @@ sidebar: auto
 
 To allow users to configure integrations or widgets a **configuration model** can be defined. The configuration model is a set of input elements mapped to variable names which can be accessed in the intergation or widget code.
 
-To define a configuration model, create a `config.json` and place it in the root directory.
+To define a configuration model, create a `config.json` and place it in the root directory or the integration or widget.
 
 ## Configuration Types
 

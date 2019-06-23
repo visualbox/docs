@@ -10,9 +10,19 @@ module.exports = {
     }
   },
   serviceWorker: true,
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-136014271-1'
+      }
+    ]
+  ],
   themeConfig: {
     repo: 'visualbox',
-    docsDir: 'docs',
+    docsRepo: 'visualbox/visualbox-docs',
+    editLinks: true,
+    lastUpdated: true,
     locales: {
       '/': {
         label: 'English',
