@@ -8,7 +8,7 @@ To allow users to configure integrations or widgets, a **configuration model** c
 To define a configuration model, create a `config.json` and place it in the root directory of the integration or widget.
 
 ## Configuration Types
-The configuration model must be an array of **configuration types**. A configuration type is an object defining the `type`, `name`, `label` and `default value`.
+The configuration model must be an array of **configuration types**. A configuration type is an object defining the `type`, `name`, `label` and `default`.
 
 ``` json
 // config.json
